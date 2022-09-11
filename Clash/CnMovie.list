@@ -1,7 +1,20 @@
 # 内容：CNMovie
-# 数量：3条
+# 数量：8条
 DOMAIN,www.o8tv.com 
 DOMAIN,www.bpzhe.com
+DOMAIN,www.czspp.com
+DOMAIN,www.4kvm.com
+DOMAIN,www.ddys.tv
+DOMAIN,www.dmxq.fun
+DOMAIN,www.sdtyth.com
+DOMAIN,www.tkys.tv
 DOMAIN-SUFFIX,o8tv.com 
 DOMAIN-SUFFIX,bpzhe.com
+DOMAIN-SUFFIX,czspp.com
+DOMAIN-SUFFIX,4kvm.com
+DOMAIN-SUFFIX,ddys.tv
+DOMAIN-SUFFIX,www.dmxq.fun
+DOMAIN-SUFFIX,sdtyth.com
+DOMAIN-SUFFIX,tkys.tv
 DOMAIN-KEYWORD,o8tv
+
