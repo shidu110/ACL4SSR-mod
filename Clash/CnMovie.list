@@ -1,5 +1,7 @@
 # 内容：CNMovie
 # 数量：3条
 DOMAIN,www.o8tv.com 
+DOMAIN,www.bpzhe.com
 DOMAIN-SUFFIX,o8tv.com 
+DOMAIN-SUFFIX,bpzhe.com
 DOMAIN-KEYWORD,o8tv
